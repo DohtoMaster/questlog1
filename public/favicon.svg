@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#131110"/>
+  <rect x="16" y="16" width="480" height="480" rx="80" fill="none" stroke="#c8a24e" stroke-width="4" opacity="0.3"/>
+  <text x="256" y="200" text-anchor="middle" font-size="120" fill="#c8a24e" font-family="serif">◆</text>
+  <text x="256" y="320" text-anchor="middle" font-size="72" font-weight="bold" fill="#e8dcc8" font-family="serif">QL</text>
+  <text x="256" y="400" text-anchor="middle" font-size="36" fill="#8a7a60" font-family="serif">QUEST LOG</text>
+</svg>
