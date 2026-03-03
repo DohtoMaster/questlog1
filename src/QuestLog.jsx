@@ -123,7 +123,7 @@ const GAME_DATABASE = [
 // AD CONFIG — Replace these with your real IDs from AdSense
 // ============================================================
 const AD_CONFIG = {
-  publisherId: "ca-pub-XXXXXXXXXXXXXXXX",  // Your AdSense publisher ID
+  publisherId: "ca-pub-9490973717654398",  // Your AdSense publisher ID
   bannerSlotId: "1234567890",               // Banner ad slot
   inFeedSlotId: "0987654321",               // In-feed ad slot
   interstitialFrequency: 3,                 // Show interstitial every N actions
